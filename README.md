@@ -1,3 +1,4 @@
 # Learning-React-PM
-* CRUD commands
-* Modularizing Components
+* Fullstack React Assignment
+* CRUD commands with Mongoose for MongoDB
+* Modularized Components on frontend
